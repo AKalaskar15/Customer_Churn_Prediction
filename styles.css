@@ -1,0 +1,18 @@
+body.full-content, body {
+    /* background: #f4f6f9; */
+    background-color: powderblue;
+    background-image: url('telecom.jpg');
+    background-size: cover;
+    padding-top: 0;
+}
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
